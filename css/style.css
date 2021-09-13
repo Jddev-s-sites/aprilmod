@@ -1,0 +1,74 @@
+body {
+    float: inline-start;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    line-height: 23px;
+    margin-top: 200px;
+    text-align: center;
+    position: inherit;
+    color: white;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+
+div {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+div a {
+    text-decoration: none;
+    color: white;
+}
+
+div a:hover {
+    color: rgb(68, 120, 202);
+}
+
+
+
+div h2:hover {
+    color: turquoise;
+}
+
+p:hover {
+    color: turquoise;
+}
+div h1 {
+    text-align: center;
+}
+
+div p {
+    text-align: center;
+}
+
+
+
+div h1:hover {
+    color: turquoise;
+    font-size: 40px;
+}
+
+#april {
+    text-align: center;
+    width: 150px;
+    border-radius: 100%;
+    float: inline-start;
+    position: inherit;
+}
+
+.j a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.j a:hover {
+    color: lightblue;
+}
+
+
